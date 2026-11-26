@@ -1,1 +1,2 @@
 Draphos Prospect 16.0. Publique todos os arquivos na raiz do GitHub Pages. Importe PDF textual com cabeçalhos indicados no botão Copiar modelo. Dados desconhecidos ficam vazios. Leitor PDF.js via CDN requer internet. Sem API. Revise a oferta gratuita e os dados antes de enviar. Atualizar todas as mensagens substitui textos editados. PDFs de layouts diferentes podem exigir edição manual.
+Versão 17.0: modo ajustado à tela por padrão, modo tabela opcional e atualização individual ou geral da prospecção. Mantém a chave de armazenamento anterior.
