@@ -1,2 +1,2 @@
-Draphos Prospect 12 — Tabela de mensagens
-Publique os arquivos na raiz do GitHub Pages. Selecione o PDF textual: a leitura inicia automaticamente. O leitor PDF.js depende de internet. Revise a tabela e as mensagens antes de abrir WhatsApp. PDF digitalizado não é suportado. O formato de tabela deve ter cabeçalhos Estabelecimento, Cidade, Telefone, Endereço, Situação no Google. Se não reconhecer, use o texto extraído e linhas separadas por |.
+Draphos Prospect 14 — Mensagens personalizadas
+Publique todos os arquivos na raiz do GitHub Pages. Escolha o segmento e importe um PDF textual. A última coluna recebe mensagens no padrão Draphos, com oferta de site gratuito quando selecionado Site profissional. Revise a oferta, informações e mensagens antes de enviar. Use Atualizar mensagens para regenerar contatos existentes. PDF.js requer internet; PDFs digitalizados não são suportados.
