@@ -1,5 +1,8 @@
-# Draphos Prospect — Open Map Edition
-Publique index.html, style.css e app.js na raiz do GitHub Pages. Abra pelo endereço HTTPS publicado. Não exige chave, cartão ou instalação. Busca por cidade via Nominatim e estabelecimentos via Overpass (OpenStreetMap). Serviços públicos sujeitos a limites, indisponibilidade e cobertura incompleta; use consultas individuais, sem automação em massa. Resultados limitados a 100, com categorias aproximadas e fallback por nome. Site ausente não significa que a empresa não tem site. Não fornece avaliações do Google. Confirme contatos antes de enviar mensagens. Dados © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright. Carteira local usa a mesma chave de armazenamento da edição Free, se hospedada no mesmo domínio. Exportação CSV disponível. Integração depende de acesso externo; não validada em produção.
+# Draphos Prospect 5.0 — AI First
 
-## Central Multi AI
-Busque pelo OpenStreetMap e clique em uma das 11 IAs. O aplicativo copia o prompt e abre o serviço externo. Cole com Ctrl+V e habilite a pesquisa web, quando disponível. Copie o array JSON da resposta e importe na Central de IA. Revise as fontes. Não há chamada automática às IAs nem API paga; contas e limites gratuitos dependem de cada serviço. Não envie dados privados.
+Publique os quatro arquivos na raiz do repositório GitHub Pages.
+
+## Pesquisa
+Informe segmento e cidade. Clique em uma IA, cole o prompt (Ctrl+V) e habilite pesquisa web se disponível. Copie a resposta JSON e importe no painel. Repita com outras IAs. Confira fontes e contatos antes de enviar mensagens. Google Maps e OpenStreetMap são complementares; uma falha no OSM não bloqueia o fluxo.
+
+Não há API paga nem execução automática das IAs externas. Elas podem exigir login e impor limites gratuitos. Os contatos ficam no armazenamento local do navegador, na mesma chave da versão anterior. Exporte CSV para backup.
